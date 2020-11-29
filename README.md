@@ -3,7 +3,7 @@
 > Becoming a better version of myself.:sunny:
 
 - :cyclone: 我的博客
-  - [个人](yangxiang.xyz:9002)
+  - [个人](https://yangxiang.xyz:9002)
   - [掘金](https://juejin.im/user/4089838987397261)
 - :telephone_receiver: 联系
   - QQ：12155627787
@@ -12,7 +12,7 @@
   - 喜欢前端三贱客以及周边技术；
   - 对后端也略有兴趣。
 
-:house: 个人情况：暂住成都，一个苦逼的三段码之力的码农，渴望成为码皇，成为码力大陆凤毛麟角的存在(*^▽^*)。
+:house: 个人情况：暂时在成都上班，是一个刚从二开转行前端的萌新，能做自己比较喜欢的事真是太好了(*^▽^*)。
 
 **花有重开日，人无再少年... 珍重！**
 
