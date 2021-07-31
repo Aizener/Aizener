@@ -3,7 +3,7 @@
 > Becoming a better version of myself.:sunny:
 
 - :cyclone: 我的博客
-  - [个人](https://aizener.github.io/my-blog/#/)
+  - [个人](yangxiang.cc)
   - [掘金](https://juejin.im/user/4089838987397261)
 - :telephone_receiver: 联系
   - QQ：12155627787
