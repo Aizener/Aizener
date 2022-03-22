@@ -3,7 +3,7 @@
 > Becoming a better version of myself.:sunny:
 
 - :cyclone: 我的博客
-  - [个人](http://1.14.43.39:3000)
+  - [个人](http://yangxiang.cc)
 - :telephone_receiver: 联系
   - QQ：12155627787
   - Email: 1215627787@qq.com
