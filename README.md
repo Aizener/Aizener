@@ -4,13 +4,6 @@
 
 ---
 
-<!-- 打字机效果 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Explorer;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
----
-
 ### 🌐 关于我
 
 - 🎯 前端开发者，对 **Web全栈开发** 有长期兴趣  
@@ -39,3 +32,4 @@ Frontend   : HTML / CSS / JavaScript / TypeScript
 Frameworks : React / Vue / Nuxt
 Backend    : Node.js / NestJS
 Others     : Unity
+
